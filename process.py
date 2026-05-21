@@ -342,6 +342,7 @@ def validate_result(data):
     return data
 
 def process(news):
+    # print("start!!!!!")
     news_cn = translate(news)
     # print("news_cn =", news_cn)
     news_basic = extract_basic(news_cn)
