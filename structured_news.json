@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+    "summary": "袋袋（Profy）通过聊天式经验封装技术，将专家的隐性知识转化为可直接交付的“数字专家”，实现高质量专业服务的低成本规模化复用。",
+    "category": "产品",
+    "entities": [
+      "袋袋（Profy）"
+    ],
+    "tech_tags": [
+      "多智能体协同",
+      "隐性知识捕获",
+      "意图校准",
+      "自进化能力",
+      "基座模型",
+      "HLE"
+    ],
+    "event_type": "发布",
+    "sentiment": "正面",
+    "importance_score": 1,
+    "importance_signals": {
+      "is_top_company": 0,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "大幅降低专业知识的获取门槛，使普通用户能以低成本调用顶级专家能力，同时让专业人士突破时间限制，实现零边际成本的能力变现，并推动隐性知识成为可独立运作的智能资产。",
+    "keywords": [
+      "专家经验复用",
+      "低门槛AI",
+      "隐性知识",
+      "数字专家",
+      "AI落地"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+    "summary": "国内生成式AI行业从追求模型参数与排名转向重视业务落地与生产力创造，并发布2026年度AIGC企业与产品榜单，覆盖多个主流赛道。",
+    "category": "行业",
+    "entities": [
+      "联想",
+      "百度",
+      "阿里",
+      "腾讯",
+      "字节跳动",
+      "科大讯飞"
+    ],
+    "tech_tags": [
+      "LLM",
+      "多模态",
+      "智能体",
+      "生成式AI"
+    ],
+    "event_type": "发布",
+    "sentiment": "中性",
+    "importance_score": 2,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 1
+    },
+    "impact": "标志着行业进入实用化竞争阶段，将加速AI技术在各领域的深度渗透与商业化闭环；同时为大厂和创业公司提供展示平台，可能影响资本流向与行业洗牌。",
+    "keywords": [
+      "应用闭环",
+      "业务落地",
+      "生产力",
+      "AIGC",
+      "年度榜单"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "突发！卡帕西宣布入职Anthropic",
+    "summary": "前OpenAI创始成员、AI教育家Andrej Karpathy宣布加入Anthropic，将带领新小组利用Claude自身能力加速其预训练研究。",
+    "category": "行业",
+    "entities": [
+      "斯坦福",
+      "Anthropic",
+      "特斯拉",
+      "OpenAI",
+      "Eureka Labs"
+    ],
+    "tech_tags": [
+      "LLM",
+      "预训练",
+      "Agentic Engineering",
+      "Vibe Coding"
+    ],
+    "event_type": "研究",
+    "sentiment": "中性",
+    "importance_score": 2,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "Karpathy的加盟不仅强化了Anthropic在前沿大模型研发中的顶尖人才储备，还可能通过“自举”预训练路线推动模型迭代效率的质变，进一步加剧与OpenAI的竞争格局。",
+    "keywords": [
+      "Agentic Engineering",
+      "预训练",
+      "Anthropic",
+      "Karpathy",
+      "大模型"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "腾讯版Claude Design来了：多人实时同屏审设计稿，一键转代码直通IDE",
+    "summary": "腾讯公测AI设计智能体平台Ardot，实现从口语化指令生成可编辑UI设计稿、Figma无缝导入、一键转代码到多人实时评审的全流程设计协作。",
+    "category": "产品",
+    "entities": [
+      "Figma",
+      "腾讯"
+    ],
+    "tech_tags": [
+      "LLM",
+      "多模态"
+    ],
+    "event_type": "发布",
+    "sentiment": "正面",
+    "importance_score": 2,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "Ardot有望大幅缩短UI设计前期初稿的产出时间，打通设计到开发的自动化链路，并通过实时多人评审和权限追溯提升团队协作效率。",
+    "keywords": [
+      "设计评审",
+      "代码生成",
+      "AI设计",
+      "实时协作",
+      "Figma集成"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "520，遇见国产「新模王」Qwen3.7-Max！",
+    "summary": "阿里正式发布通义千问旗舰模型Qwen3.7-Max，在编程、通用智能体、推理等多项评测中刷新国产纪录，综合性能逼近国际头部闭源模型，并可自主完成编程、文档生成等工作流闭环。",
+    "category": "技术",
+    "entities": [
+      "Arena",
+      "阿里"
+    ],
+    "tech_tags": [
+      "LLM",
+      "多模态",
+      "Agent",
+      "智能体"
+    ],
+    "event_type": "发布",
+    "sentiment": "正面",
+    "importance_score": 4,
+    "importance_signals": {
+      "is_top_company": 0,
+      "is_major_event": 1,
+      "is_wide_impact": 1,
+      "is_analysis": 0
+    },
+    "impact": "该模型以强大的智能体能力抢占Agent时代先机，有望成为开发者构建智能体系统的底层基础设施，加速国产模型在自动化工作流和生态建设上的突破。",
+    "keywords": [
+      "国产模型第一",
+      "通用智能体",
+      "Qwen3.7-Max",
+      "编程能力"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "I/O大会开完，谷歌连搜索框都变智能体了",
+    "summary": "谷歌宣布全面转型AI智能体，推出Gemini 3.5模型、AI搜索智能体和Workspace智能体，意图打造24小时不间断工作的智能体生态。",
+    "category": "产品",
+    "entities": [
+      "Google Workspace",
+      "Gemini",
+      "Gemini Omni",
+      "Google"
+    ],
+    "tech_tags": [
+      "智能体",
+      "多模态推理",
+      "LLM",
+      "编码",
+      "工作流"
+    ],
+    "event_type": "发布",
+    "sentiment": "正面",
+    "importance_score": 5,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 1,
+      "is_wide_impact": 1,
+      "is_analysis": 0
+    },
+    "impact": "此举将重新定义搜索、办公及开发体验，推动AI从辅助工具向自主行动代理演进，加剧行业智能体竞争并可能大幅降低企业级AI应用成本。",
+    "keywords": [
+      "I/O大会",
+      "谷歌",
+      "Gemini 3.5",
+      "智能体",
+      "搜索AI"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "高潮从第几秒开始？GaMMA 让多模态大模型真正「听懂」音乐时间线",
+    "summary": "复旦大学与字节跳动提出多模态大模型GaMMA，通过双编码器融合架构首次突破音乐时序理解瓶颈，在多个基准上全面刷新SOTA并超越Gemini-3.0 Pro。",
+    "category": "技术",
+    "entities": [
+      "字节跳动",
+      "复旦大学"
+    ],
+    "tech_tags": [
+      "多模态",
+      "音频编码",
+      "双编码器",
+      "门控路由",
+      "强化学习"
+    ],
+    "event_type": "研究",
+    "sentiment": "正面",
+    "importance_score": 5,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 1,
+      "is_wide_impact": 1,
+      "is_analysis": 0
+    },
+    "impact": "该研究为音乐理解补上了时序推理的关键短板，有望推动音乐生成、编辑及交互应用迈向更深层的语义控制，其配套的MusicBench基准也将加速行业评估标准化。",
+    "keywords": [
+      "GaMMA",
+      "时序推理",
+      "MusicBench",
+      "音乐理解"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "ICML 2026｜表格异常检测能否告别「one-for-one」？OFA-TAD迈向one-for-all通用异常检测新范式",
+    "summary": "研究提出一种一次训练即可跨领域零微调检测表格异常的OFA-TAD模型，通过近邻距离序列、多视角编码与MoE自适应融合，在34个目标数据集上平均性能最优。",
+    "category": "技术",
+    "entities": [],
+    "tech_tags": [
+      "MoE",
+      "多视角学习",
+      "零样本迁移",
+      "表格异常检测"
+    ],
+    "event_type": "研究",
+    "sentiment": "中性",
+    "importance_score": 1,
+    "importance_signals": {
+      "is_top_company": 0,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "该范式突破了传统逐数据集训练的高成本与弱泛化瓶颈，为医疗、金融、安全等领域的表格异常检测提供了高效、可迁移的解决方案，并展现出类似大模型的扩展潜力。",
+    "keywords": [
+      "表格数据",
+      "异常检测",
+      "领域泛化",
+      "近邻结构",
+      "OFA-TAD"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "告别信息流：Status AI 融资1700万美元，将社交媒体转变为互动娱乐",
+    "summary": "Status AI是一款主打沉浸式角色扮演和用户生成世界的游戏化社交应用，已完成1700万美元融资，吸引超过1300万个世界和500万个角色创建，主要用户为年轻女性。",
+    "category": "投资",
+    "entities": [
+      "Status AI",
+      "Character.AI"
+    ],
+    "tech_tags": [
+      "AI",
+      "聊天机器人"
+    ],
+    "event_type": "融资",
+    "sentiment": "中性",
+    "importance_score": 1,
+    "importance_signals": {
+      "is_top_company": 0,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "该平台可能引领社交应用从被动消费转向主动参与的沉浸式娱乐，并成为媒体公司培养粉丝和推广IP的新渠道，其年轻女性用户基础有助于推动其成为文化现象。",
+    "keywords": [
+      "沉浸式社交娱乐",
+      "虚拟社区",
+      "角色扮演",
+      "游戏化社交媒体",
+      "用户生成世界"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "谷歌在I/O 2026上更新Gemini应用，与ChatGPT和Claude竞争",
+    "summary": "谷歌在I/O大会宣布Gemini应用重大更新，推出每日简报、Omni视频模型和Spark个人AI代理，旨在打造全能型AI中心。",
+    "category": "产品",
+    "entities": [
+      "谷歌"
+    ],
+    "tech_tags": [
+      "多模态",
+      "AI代理"
+    ],
+    "event_type": "发布",
+    "sentiment": "中性",
+    "importance_score": 3,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 1,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "此举将强化Gemini在与ChatGPT等竞品的差异化优势，并通过个性化信息整合吸引并稳固用户，可能重塑AI助手市场竞争格局。",
+    "keywords": [
+      "谷歌I/O",
+      "Gemini应用",
+      "每日简报",
+      "AI竞争"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "“询问YouTube”为视频带来AI驱动的对话式搜索，并将Gemini Omni添加到Shorts中",
+    "summary": "YouTube推出“询问YouTube”AI搜索和基于Gemini Omni的视频创作工具，并扩展肖像检测以防深度伪造。",
+    "category": "产品",
+    "entities": [
+      "OpenAI",
+      "YouTube",
+      "Google",
+      "Meta"
+    ],
+    "tech_tags": [
+      "对话式搜索",
+      "多模态",
+      "视频生成",
+      "深度伪造检测"
+    ],
+    "event_type": "发布",
+    "sentiment": "中性",
+    "importance_score": 2,
+    "importance_signals": {
+      "is_top_company": 1,
+      "is_major_event": 0,
+      "is_wide_impact": 0,
+      "is_analysis": 0
+    },
+    "impact": "这些AI功能可能提升搜索交互性和内容创作便利性，但深度伪造防护的实际效果尚待验证，可能影响创作者权益和内容生态信任。",
+    "keywords": [
+      "询问YouTube",
+      "AI搜索",
+      "深度伪造",
+      "Gemini Omni",
+      "Shorts"
+    ]
+  }
+]

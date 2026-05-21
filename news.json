@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+        "content": "AI的发展正陷入一场巨大的“灯下黑”。模型越来越强，框架越来越多，但AI落地存在明显错配：懂业务的专家被技术门槛（搭工作流、写提示词、部署Agent）拦在门外，懂技术的开发者又摸不到真实行业痛点；同时普通用户付不起高价咨询，只能退而求其次用通用工具。5月19日，一个叫袋袋（Profy）的产品悄悄上线。袋袋选择了一条差异化路径：不需要专家学习任何技术框架，仅需像聊天一样输出自身经验，系统就能自动封装成可独立交付的“数字专家”。早期风险投资人Selene的数字分析师在5分钟内输出带风险分层的高质量研报，全流程压缩到2小时内。品牌全球化专家宫琼的数字分身给出精准的出海策略，并成了24小时引流入口。袋袋能构建隐性知识的“技术护城河”，让判断力可以脱离你而存在，依靠多智能体协同、隐性知识捕获、意图校准、IP黑盒保护（核心逻辑不泄露）、自进化能力搭建护城河。因此，袋袋在HLE中超越基座模型近20个百分点。目前袋袋已经面向创业者、准备出海的业务负责人、跨境电商卖家、自媒体创作者、初创公司，同时，各个领域的专业人才，正在把自己的经验搬上袋袋。既让普通用户能低成本调用顶级专家能力，也让专业人士突破时间限制，实现专业能力的零边际成本复用。",
+        "source": "量子位",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 2,
+        "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+        "content": "国内生成式AI已不再只聚焦参数规模、模型排名和谁又刷新了Benchmark，转向关注业务落地、是否生产力创造和应用闭环。国内AI行业行业分化加剧。本文从数百份申报中筛选榜单，评选2026年度值得关注的AIGC企业与AIGC产品。年度产品榜包含智能体、内容生成、模型与开发工具、硬件终端、办公与B端服务、消费与生活服务等数十个热门赛道，腾讯、阿里、百度、字节（未直接列示）、科大讯飞、联想及众多创业公司均有产品入选。",
+        "source": "量子位",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 3,
+        "title": "突发！卡帕西宣布入职Anthropic",
+        "content": "大神Karpathy宣布新动向：加入Anthropic，称“未来几年会是大模型前沿发展尤为关键的阶段”。而在过去一两年中，他也作为一个独立于顶尖大模型实验室之外的「自由人」，给关注AI领域的人带来了Vibe Coding，Agentic Engineering。Karpathy将加入Anthropic的预训练团队，帮助启动一个用Claude自己加速自身预训练研究的新小组。Karpathy是斯坦福博士，师从李飞飞，为OpenAI创始成员，曾先后任职特斯拉自动驾驶负责人，2023年二度回归OpenAI，2024年离职创办AI教育公司Eureka Labs，他此次加盟OpenAI劲敌Anthropic，将致力于研究用Claude本身来加速预训练，这是Agentic Engineering的一环。此次加入顶级实验室，能让Karpathy获得更充足的一线资源支撑相关研究。",
+        "source": "量子位",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 4,
+        "title": "腾讯版Claude Design来了：多人实时同屏审设计稿，一键转代码直通IDE",
+        "content": "Claude Design刚把设计圈炸完，腾讯又公测了一个Ardot。作为AI设计智能体平台，一句话生成可编辑UI设计稿、Figma文件零成本导入、一键转代码直通IDE、多人在线评审。区别于仅能生成静态效果图的同类工具，Ardot能让AI直接加入你的设计团队，它可以帮你省去手动从零搭建初稿、手搓第一版的时间，大幅提升前期出稿效率。它会流式生成页面。生成完成之后，所有内容依旧是分层结构，设计稿还支持局部精准微调。用日常口语下达指令可以进行微调。它也支持支持Figma文件零成本拖拽导入，原有布局结构、样式参数、组件库全部完整保留，可以继续沿用Figma的组件和设计规范，无缝融入现有工作流。定稿之后，通过MCP协议，Ardot能把设计里的配色变量、组件参数、布局间距等核心数据结构化提取，直接推送至各类主流IDE开发环境。同时，Ardot平台支持多人实时在线评审，产品经理、UI/UX设计师、开发三方可以同屏在线，在设计稿上直接圈点讨论。所有人在同一张稿上标注、评论，决策全程留痕，也配了智能权限中心，能记录谁看了、谁改了、谁批了，每一步都可以追溯。Ardot的微信小程序也将上线，后续手机端就能查看稿件、评审、反馈，随时随地都能跟进度。",
+        "source": "量子位",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 5,
+        "title": "520，遇见国产「新模王」Qwen3.7-Max！",
+        "content": "昨天一早，阿里上线了 Qwen3.7 Preview，包括 Qwen3.7 Max Preview 与 Qwen3.7 Plus Preview 两个版本。第三方权威评测机构 Arena 放出了这两个模型的榜单成绩，其中 Qwen3.7 Max Preview 与 Qwen3.7 Plus Preview 分别拿下了文本领域、视觉领域的国产模型第一。今天上午，在 2026 阿里云峰会上，阿里全新一代千问旗舰模型 Qwen3.7-Max 登场了！正式版总榜位列国产第一，超越Kimi-K2.6、DeepSeek-v4 Pro、GLM-5.1，综合性能逼近GPT、Claude、Gemini等全球头部闭源模型，在编程、通用智能体、推理、多语言等细分测评中均刷新国产纪录。编程领域在Terminal Bench 2.0拿到69.7分，超过同期一众国内外模型；通用智能体在MCP系列评测创国产新高；推理能力在GPQA Diamond、HLE等硬核测试中超越Claude Opus 4.6及所有国产模型。无编程基础的用户仅需下达模糊指令，模型可自主规划技术栈、排查环境报错、迭代功能，最终完成可直接运行的.exe文件打包。首次接触opencli工具时，它可自主阅读文档、调试参数、解决网络超时问题，把调研结果快速转为 PPT 和在线文档，完成工作流闭环。Agent也能能针对特定场景灵活调用 Skill。它能准确识别了文字修改的核心诉求，并主动调度了系统内的 Skill，完成重写，并输出一份结构化的 Markdown 复盘表格。阿里月更旗舰是在为 Agent 时代抢占先机。千问搭建 Agent 时代的「标准接口」，让自身成为不同智能体框架的首选底座，志在成为开发者构建智能体系统时最不可或缺的底层基础设施。",
+        "source": "机器之心",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 6,
+        "title": "I/O大会开完，谷歌连搜索框都变智能体了",
+        "content": "今天凌晨，谷歌全面向智能体时代转型了，宣布今年一系列新产品的核心逻辑是「24 小时不停工作的智能体」。Google CEO 桑达尔・皮查伊提到当前谷歌全渠道月处理token达3200千万亿，而两年前人们通过谷歌的各种渠道每月仅消耗 9.7 万亿 token。已有超850万开发者用Gemini构建应用，13款产品用户破10亿、5款破30亿，其中搜索AI模式月活已超10亿，Nano Banana图像模型累计生成500亿张图像。在大会上，谷歌宣布推出最新一代模型系列 Gemini 3.5，称其集前沿智能与行动能力于一身。首发的是轻量级产品 Gemini 3.5 Flash，在智能体和编程方面具备前沿性能，尤其擅长处理复杂、长周期、能够产生现实价值的任务。而Gemini 3.5 Pro作为旗舰版本仍在内部打磨，官方预告次月发布。性能上，Terminal-Bench 2.1编码测试得分76.2%、MCP Atlas多步工作流测试得分83.6%，多模态推理、空间理解能力均领先同梯队模型，输出速度快4倍，成本通常不到其他前沿模型一半。结合更新后的开发者平台 Antigravity 执行框架后，3.5 Flash 可以成为部署协作式子智能体的强大引擎，用于大规模处理最具挑战性的任务。谷歌更新了一款名为 Spark 的全新 AI 智能体，它基于 Gemini 3.5，并与包括 Gmail、Docs 和 Slides 在内的 Google Workspace 应用深度集成。它可以执行如每月自动查找信用卡账单中的隐藏费用的重复性任务，还可以设置规则让它完成多个相互关联的任务，从而构建完整的工作流程。谷歌还宣布对其最大的摇钱树谷歌搜索进行有史以来最大规模的改造，它将最新的 AI 模式功能直接添加到搜索框中，同时允许新的智能体在后台执行搜索任务，并能给搜索框派任务。通过直接向搜索智能体提供查询的所有相关信息来用智能体获得所有信息。今年谷歌正式推出 Gemini Omni，这是一个将 Gemini 的推理能力与创作能力完美融合的全新系列，能够基于任何形式的输入内容来生成万物",
+        "source": "机器之心",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 7,
+        "title": "高潮从第几秒开始？GaMMA 让多模态大模型真正「听懂」音乐时间线",
+        "content": "大模型的能力边界正在不断拓展，从文字到视觉，再到音频，全模态理解已渐成现实。但它们普遍“听不懂”音乐时间结构，它们能读、能看、能听，却依然「听不懂」音乐的时间线。为了解决这一问题，来自复旦大学与字节跳动的研究团队提出了 GaMMA，一个专为音乐全局语义与时序动态联合建模而设计的多模态大模型。实验表明，GaMMA 在多个音乐基准上全面刷新 SoTA，在时序理解任务上超越 Gemini-3.0 Pro，并在专家人工评测中展现出显著优势。为什么现有模型「听不懂」音乐的时间结构？音乐理解天然包含两类截然不同的任务。一类是全局语义理解，另一类则是时序结构理解但这两种能力的目标本身并不一致，现有方法通常尝试用同一个音频编码器同时完成这两类任务，但单一编码器往往难以兼顾，导致模型在「全局理解」和「时序推理」之间反复权衡，却难以同时做好两者。现阶段多数音频多模态模型的能力重心，仍然集中在语音与语言内容的建模上。除此之外，音乐时序理解目前还面临两个基础性瓶颈：训练数据匮乏与评测体系缺位。GaMMA采用了双编码器融合网络架构，由两个基于 Whisper 的专用编码器组成：时序专家与全局专家。两个专家分别生成自己的音频嵌入序列后，模型通过双向交叉注意力机制进行信息交互。在此基础上，GaMMA 进一步引入了一个可学习的门控路由模块，在 token 级别动态决定不同专家信息的融合比例。训练采用三阶段渐进式流程，搭配团队构建的大规模精细标注音乐数据集，通过多模态对齐预训练、监督微调、强化学习分阶段提升能力。团队同时推出了 MusicBench，迄今最大、最全面的音乐理解基准，包含 3,739 道人类专家精心标注的多选题，分为两个子集：MusicBench-Global（2741题）：覆盖流派、情绪、配器等全局属性，类别分布均衡；MusicBench-Temporal（998题）：专门评估时序推理，包含人声、乐器、结构、和弦、歌词5个维度，要求模型基于时间片段作答。GaMMA在MuChoMusic基准，MusicBench基准和专家主观评测上刷新SOTA。",
+        "source": "机器之心",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 8,
+        "title": "ICML 2026｜表格异常检测能否告别「one-for-one」？OFA-TAD迈向one-for-all通用异常检测新范式",
+        "content": "表格异常检测（Tabular Anomaly Detection，TAD）旨在从结构化数据中精准识别显著偏离正常分布的稀有样本，其在医疗诊断、金融风控及网络安全等关键领域的数据挖掘与安全保障任务中发挥着核心作用。当前大多数 TAD 方法仍然遵循一种 one-for-one（OFO）范式，每个新数据集都需单独训练、调参、适配预处理，存在训练成本高、跨领域泛化能力弱的痛点，难以适配真实场景的多变需求。这项研究提出了 OFA-TAD，模型仅在多源数据集上训练一次，即可直接迁移到未见过的医疗、金融、网络安全等新领域数据集，无需目标域微调。OFA-TAD 的核心洞见是：跨领域可迁移的异常信号，不应依赖具体特征含义，而应来自更通用的邻域结构，它不直接学习原始表格特征，而是将每个样本表示为其 Top-K 近邻距离序列，这样的表示具有语义无关与异常敏感的特性。OFA-TAD采用多视角距离编码，让模型自动适应不同数据变换，既避免了对某一种预处理方式的依赖，也能捕获互补的异常证据。模型采用MoE 自适应融合，让每个样本选择最可靠的距离视角，引入了 Mixture-of-Experts（MoE）评分网络：视角专家、门控网络和加权融合，让使得 OFA-TAD 不需要提前知道某个目标数据集最适合哪种预处理方式，而是能在推理时自动选择更可靠的距离证据。OFA-TAD 设计了多策略伪异常合成机制，通过四类方式生成多样化的伪异常：流形外推、簇间插值、噪声注入、特征遮蔽。这些伪异常与正常样本共同构成训练信号，帮助模型学习更稳健、可迁移的异常决策边界。模型在7个源数据集上训练后，在34个跨14个领域的目标数据集上零微调测试，对比9个传统需逐数据集训练的基线方法：整体AUROC、AUPRC平均排名均为最优，性能稳定领先；消融实验验证所有模块均不可或缺，其中注意力池化对稀疏异常信号的捕捉作用最显著；仅需少量目标域正常样本即可完成即时推理，上下文样本越多性能越好；预训练的源数据集规模越大，模型迁移性能越高，具备类似大模型的scaling潜力。",
+        "source": "机器之心",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 9,
+        "title": "Forget the feed: Status AI raises $17M to turn social media into interactive entertainment",
+        "content": "Status AI is a gamified social media app and the pioneer of a new category called immersive social entertainment. Founded by chronically online teenager Fai Nur, along with Amit Bhatnagar and Pritesh Kadiwala, the platform recently came out of stealth and announced $17 million in combined seed and Series A funding. The app is built on the premise that the era of passive entertainment is coming to an end. Instead of sitting back and watching stories, the next generation wants to engage and live inside them. While the first generation of AI social apps (like Character.AI) was built around a chatbot experience, Status AI allows users to craft a persona and enter user-generated worlds where they can play any character in any universe—whether stepping inside a favorite show, becoming a celebrity, or running for president. The platform offers both multiplayer and single-player modes, creating multiplayer environments where people can build, buy, and belong all at once. It aims to combine intimacy, utility, and creativity in one ecosystem that focuses heavily on fandom and niche communities. The startup has already captured the attention of media companies, studios, and streamers who view Status as a way to develop audiences and get consumers to live inside their IP franchises. So far, the platform has seen strong early engagement, with more than 13 million worlds and 5 million character profiles created. Its early users are predominantly young women—the exact audience that typically decides which platforms become culture.",
+        "source": "techcrunch",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 10,
+        "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
+        "content": "At its annual Google I/O event on Tuesday, Google announced that the Gemini app is getting a series of new updates, including a Daily Brief feature, a redesigned interface, access to a new AI video model called Gemini Omni, and new personal AI agent called Gemini Spark. The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot and to make the AI assistant more competitive with apps like ChatGPT and Claude. Google describes the new Daily Brief feature as a personalized digest designed to be your first stop each morning. It pulls together information from a user’s inbox, calendar, and most important tasks, and then organizes them into a clear overview. The company says Daily Brief doesn’t just summarize this information — it also prioritizes tasks and suggests next steps, with the most important items shown first. Daily Brief is rolling out today to Google AI subscribers in the United States. The Gemini app already has considerable reach: The company said it has more than 900 million monthly users and is available in over 230 countries and in more than 70 languages. But Google clearly wants more and without losing its existing customers. Google said it rebuilt the app from the ground up. Now when users open the app, they’ll see a new design language called Neural Expressive, which brings fluid animations, vibrant colors, new typography, and haptic feedback.",
+        "source": "techcrunch",
+        "time": "2026-05-20"
+    },
+    {
+        "id": 11,
+        "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
+        "content": "Google is completely revamping its search experience, and that doesn’t stop at YouTube. Like the rest of Google, YouTube’s search bar is getting infused with AI tools like “Ask YouTube,” a feature that is supposed to give users a more sophisticated search experience. “With Ask YouTube, you can ask more complex search queries, such as wanting tips on how to teach your kid to ride a bike, or finding creator reviews of cozy games to play before bedtime,” the company explained. “You can even ask follow-up questions to continue refining what you’re looking for.” YouTube will compile both Shorts and long-form videos and generate a response. Premium subscribers in the U.S. on desktop can start using this feature now through YouTube’s optional Premium offerings to test new tools. The company also announced that it is adding Gemini Omni, Google’s new AI video model, to YouTube Shorts Remix and the YouTube Create app. “Remixing with Omni delivers a fresh way for users to create and build on each other’s imagination,” YouTube wrote in a press release. “The model better understands user intent creating more consistent and meaningful storytelling while also handling complex video and audio adjustments behind the scenes.” Other companies like Meta and OpenAI have seen mixed reception when pushing for AI use in Shorts. OpenAI even sunsetted its social app Sora, where users could post and share their AI-generated clips. But YouTube seems to be rolling this out in a manner that feels a bit less front and center. YouTube is also expanding its likeness-detection tool to creators 18 and older, which is supposed to help prevent creators from being deepfaked in other people’s AI content. If a creator sees themselves misrepresented in AI videos, they can request that the video be removed. Since this feature is only now expanding more broadly, it remains to be seen how effective it is.",
+        "source": "techcrunch",
+        "time": "2026-05-20"
+    }
+]
